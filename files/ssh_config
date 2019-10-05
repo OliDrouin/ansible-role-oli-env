@@ -1,0 +1,4 @@
+AddKeysToAgent=confirm
+ForwardAgent=yes
+ServerAliveInterval=90
+ServerAliveCountMax=5
